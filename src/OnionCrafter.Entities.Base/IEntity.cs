@@ -13,6 +13,10 @@
         /// </summary>
         public TKey Id { get; protected set; }
 
+        /// <summary>
+        /// Sets the identifier.
+        /// </summary>
+        /// <param name="key">The key.</param>
         public abstract void SetId(TKey key);
     }
 

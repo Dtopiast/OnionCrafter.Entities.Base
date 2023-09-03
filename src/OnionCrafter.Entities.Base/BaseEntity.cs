@@ -10,6 +10,14 @@
         /// <inheritdoc/>
         public virtual TKey Id { get; set; }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="BaseEntity{TKey}"/> class.
+        /// </summary>
+        protected BaseEntity()
+        {
+            Id = Activator.CreateInstance<TKey>();
+        }
+
         /// <inheritdoc/>
         public void SetId(TKey key)
         {
