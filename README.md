@@ -1,8 +1,8 @@
-# OnionCrafter.Entities.Base
+# OnionCrafter.Entity.Base
 
-![Versión de la librería](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-brightgreen) [![NuGet](https://img.shields.io/nuget/v/OnionCrafter.Entities.Base.svg)](https://www.nuget.org/packages/OnionCrafter.Entities.Base/)
+![Versión de la librería](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-brightgreen) [![NuGet](https://img.shields.io/nuget/v/OnionCrafter.Entity.Base.svg)](https://www.nuget.org/packages/OnionCrafter.Entity.Base/)
 
-![](https://raw.githubusercontent.com/Dtopiast/OnionCrafter.Entities.Base/main/Images/Logo.png)
+![](https://raw.githubusercontent.com/Dtopiast/OnionCrafter.Entity.Base/main/Images/Logo.png)
 
 **Estado de la Librería: Pre-Alfa - No Listo para Producción**
 
@@ -14,7 +14,7 @@ Por favor, mantente atento a futuras actualizaciones y anuncios sobre el progres
 
 ## Descripción
 
-OnionCrafter.Entities.Base es una biblioteca ligera que proporciona definiciones de interfaces y clases base para entidades en proyectos desarrollados en .NET 7. Esta biblioteca está diseñada para ayudarte a garantizar la seguridad de tipos y la trazabilidad en tu aplicación, simplificando el proceso de desarrollo y mejorando la calidad del código.
+OnionCrafter.Entity.Base es una biblioteca ligera que proporciona definiciones de interfaces y clases base para entidades en proyectos desarrollados en .NET 7. Esta biblioteca está diseñada para ayudarte a garantizar la seguridad de tipos y la trazabilidad en tu aplicación, simplificando el proceso de desarrollo y mejorando la calidad del código.
 
 ## Características
 
@@ -34,7 +34,7 @@ OnionCrafter.Entities.Base es una biblioteca ligera que proporciona definiciones
 3. Extiende la clase `BaseEntity<TKey>` o de la interfaz `IEntity<TKey>` para definir entidades con claves personalizadas.
 4. Utiliza las clases y interfaces proporcionadas para crear y administrar entidades en tu aplicación.
 
-Para obtener ejemplos detallados sobre cómo utilizar esta librería, consulta la [documentación](https://github.com/Dtopiast/OnionCrafter.Entities.Base/wiki).
+Para obtener ejemplos detallados sobre cómo utilizar esta librería, consulta la [documentación](https://github.com/Dtopiast/OnionCrafter.Entity.Base/wiki).
 
 ## Ejemplo
 
@@ -51,10 +51,10 @@ public class MiEntidad : BaseEntity<int>
 
 Si deseas contribuir a esta librería, ¡te damos la bienvenida! Puedes hacerlo de las siguientes maneras:
 
-1. **Informa problemas:** Si encuentras algún problema o error, por favor, abre un [issue](https://github.com/dtopiast/OnionCrafter.Entities.Baseissues).
+1. **Informa problemas:** Si encuentras algún problema o error, por favor, abre un [issue](https://github.com/dtopiast/OnionCrafter.Entity.Baseissues).
 
-2. **Envía Pull Requests:** Si deseas agregar nuevas características o corregir errores existentes, no dudes en enviar un [pull request](https://github.com/dtopiast/OnionCrafter.Entities.Base/pulls).
+2. **Envía Pull Requests:** Si deseas agregar nuevas características o corregir errores existentes, no dudes en enviar un [pull request](https://github.com/dtopiast/OnionCrafter.Entity.Base/pulls).
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia Mozilla Public v. 2](LICENSE.txt). Consulta el archivo LICENSE.md para obtener más información.
+Este proyecto está bajo la [Licencia Mozilla Public v. 2](LICENSE.txt). Consulta el archivo LICENSE.txt para obtener más información.
