@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionCrafter.Entities.Base", "src\OnionCrafter.Entities.Base\OnionCrafter.Entities.Base.csproj", "{25CC0858-A1BB-4A58-A890-86A01F6C4147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionCrafter.Entity.Base", "src\OnionCrafter.Entity.Base\OnionCrafter.Entity.Base.csproj", "{25CC0858-A1BB-4A58-A890-86A01F6C4147}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

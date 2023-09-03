@@ -1,4 +1,4 @@
-﻿namespace OnionCrafter.Base.Entities.General
+﻿namespace OnionCrafter.Entity.Base
 {
     /// <summary>
     /// Represents an entity with a unique identifier of type <typeparamref name="TKey"/>.

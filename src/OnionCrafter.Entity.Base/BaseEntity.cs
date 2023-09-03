@@ -1,4 +1,4 @@
-﻿namespace OnionCrafter.Base.Entities.General
+﻿namespace OnionCrafter.Entity.Base
 {
     /// <summary>
     /// Abstract base class for entities with a key.

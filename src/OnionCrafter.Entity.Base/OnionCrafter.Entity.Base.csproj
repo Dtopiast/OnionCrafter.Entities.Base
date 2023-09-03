@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
 	  <Description>Provides a lightweight library offering interface definitions and base implementations for entities in .NET 7 projects. This library ensures type safety and traceability for entity classes, simplifying the development process and enhancing code quality.</Description>
