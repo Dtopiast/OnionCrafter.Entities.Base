@@ -19,7 +19,7 @@
     <PackageIcon>JustLogo.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
-    <RepositoryUrl>https://github.com/Dtopiast/OnionCrafter.Entities.Base</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Dtopiast/OnionCrafter.Entity.Base</RepositoryUrl>
     <PackageTags>dependency-injection, entity-framework, data-access, .net-core, software-development, code-quality, type-safety, .net-7, entity-design</PackageTags>
   </PropertyGroup>
 
